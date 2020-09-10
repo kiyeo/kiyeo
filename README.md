@@ -1,7 +1,5 @@
 ### Hi there 👋
 Welcome to my GitHub repository, where you can have a look at the projects I've been working on.
-I am a Graduate from the University of Auckland, Majoring in Computer Science and Information Systems. I am currently pursuing my Honours degree in Computer Science at the University of Auckland
-I love problem solving and programming, which is what lead to my interest in the development field of work. I am also good at coming up with creative solutions and work well in a team.
 <!--
 **Kiyeo/Kiyeo*is a ✨ _special✨ repository because its `README.md(this file) appears on your GitHub profile.
 Here are some ideas to get you started:
