@@ -61,12 +61,6 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-### 🚀 Stats
-
-<!-- Catppuccin themed -->
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Kiyeo&show_icons=true&bg_color=302d41&border_color=302d41&title_color=95ce7a&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiyeo&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=95ce7a&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
-
 [linkedin]: https://www.linkedin.com/in/leokeo
 
 <!-- ColorScheme - Maybe in the future processor is supported -->
