@@ -55,14 +55,6 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-### ➡️ Connect with me
-
-[<img align="left" alt="Linkedin" width="24px" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" />][Linkedin]
-
-&nbsp;
-
-[linkedin]: https://www.linkedin.com/in/leokeo
-
 <!-- ColorScheme - Maybe in the future processor is supported -->
 [blue--100]: 302d41
 [blue--200]: 05122A
